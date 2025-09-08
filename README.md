@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithk Chaudhary</h1>
+<p align="left"> <img src="[https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif](https://media1.tenor.com/m/5UGuQ1T3DDsAAAAC/naruto-anime.gif)" /> </p
 <h3 align="center">A passionate FullStack Developer, Machine Learning and Deep Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxnaruto&label=Profile%20views&color=0e75b6&style=flat" alt="rxnaruto" /> </p>
