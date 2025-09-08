@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rithk Chaudhary</h1>
+   
 <p align="left"> <img src="https://media1.tenor.com/m/5UGuQ1T3DDsAAAAC/naruto-anime.gif" /> </p
 <h3 align="center">A passionate FullStack Developer, Machine Learning and Deep Learning Enthusiast</h3>
 
